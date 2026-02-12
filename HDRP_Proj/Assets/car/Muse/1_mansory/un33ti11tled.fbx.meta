@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: cf9c248634aa70d49bde9295b4e259f8
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01_-_Default
+    second: {fileID: 2100000, guid: 3a7b46604ce7d1840aca229b29f16eee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carbon01.002
+    second: {fileID: 2100000, guid: a86f0cd4dc1768f4f96ae381aea13f1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carbon01.003
+    second: {fileID: 2100000, guid: ec0cfcff2c71d424bb6e25cd545ec690, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carbon01.005
+    second: {fileID: 2100000, guid: b0788dae7c2648e428e4843b20128184, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferrari_SF90SpiderRewardRecycled_2021Base_Material
+    second: {fileID: 2100000, guid: df87a4267a48d2945bf278c1f32520a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferrari_SF90SpiderRewardRecycled_2021Base_Material.001
+    second: {fileID: 2100000, guid: 46e58133dfdd8a04894b063577c18bd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferrari_SF90SpiderRewardRecycled_2021Carbon2_Material
+    second: {fileID: 2100000, guid: 250727acac7caec43b1218bf3b0acd34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferrari_SF90SpiderRewardRecycled_2021Coloured_Material
+    second: {fileID: 2100000, guid: 21fb13940be9d594ca0d3d09ab7c0c17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferrari_SF90SpiderRewardRecycled_2021EngineA_Material
+    second: {fileID: 2100000, guid: a6af19e621eb99149a7ee33ce57d805d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferrari_SF90SpiderRewardRecycled_2021Grille1A_Material
+    second: {fileID: 2100000, guid: 4eba3e4a107722e40820f409b3ba3d23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferrari_SF90SpiderRewardRecycled_2021Grille2A_Material
+    second: {fileID: 2100000, guid: b41ec92002ebd7c40909daf868de15cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferrari_SF90SpiderRewardRecycled_2021Grille3A_Material
+    second: {fileID: 2100000, guid: 63358d7799de80b40a16c9683aead43e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferrari_SF90SpiderRewardRecycled_2021Grille4A_Material
+    second: {fileID: 2100000, guid: 62a4c7a9ec836af4da6b87d030d6f3de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferrari_SF90SpiderRewardRecycled_2021InteriorA_Material
+    second: {fileID: 2100000, guid: 70910d49ac702f64e8df793d7474af3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferrari_SF90SpiderRewardRecycled_2021InteriorTillingA_Material
+    second: {fileID: 2100000, guid: 070259e5017a72e48bd640d3633198f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferrari_SF90SpiderRewardRecycled_2021LightA_Material
+    second: {fileID: 2100000, guid: 24ed7120858c2684ea8d89e227a20eaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferrari_SF90SpiderRewardRecycled_2021LightA_Material.001
+    second: {fileID: 2100000, guid: 0fa56fadb43838c499eab91a0cdeee4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferrari_SF90SpiderRewardRecycled_2021LightA_Material.002
+    second: {fileID: 2100000, guid: 1844c383dcdb9c746b5b9593ffc870c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferrari_SF90SpiderRewardRecycled_2021ManufacturerPlateA_8ba7b48
+    second: {fileID: 2100000, guid: 0827a2e512537764a980aad72120678e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferrari_SF90SpiderRewardRecycled_2021Paint_Material
+    second: {fileID: 2100000, guid: 75ae2f618b9fb304695f6a4ee72d416b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferrari_SF90SpiderRewardRecycled_2021Paint_Material.001
+    second: {fileID: 2100000, guid: e0fd468e06047d24bb7ad46b60b01ce6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferrari_SF90SpiderRewardRecycled_2021Paint_Material.002
+    second: {fileID: 2100000, guid: 0980ab9d89c09364a9560e884052a053, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferrari_SF90SpiderRewardRecycled_2021Window_Material
+    second: {fileID: 2100000, guid: 56d47e9f56996494ca491372797365b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferrari_SF90SpiderReward_2021_CallipersCalliperA_Zone_Material
+    second: {fileID: 2100000, guid: feb3d54aadfef3f4dae8123a93e916dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferrari_SF90SpiderReward_2021_Wheel1A_3D_3DWheel1C_Material
+    second: {fileID: 2100000, guid: ee61c463cc97fa148a4b5e0d54bc2102, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassDarkGoogle.001
+    second: {fileID: 2100000, guid: 1ccd7c8e327c4e547bcc74b61aa3ab60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassDarkGoogle.005
+    second: {fileID: 2100000, guid: 467edd6c4c79ca944b43ac6c841ff0bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MirrorGlass.001
+    second: {fileID: 2100000, guid: 0321e26382aef7e4c8f8535904c865ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RED_GLASS
+    second: {fileID: 2100000, guid: af080797731b4594a8432061581eaf61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RED_GLASS.001
+    second: {fileID: 2100000, guid: 00f9097701d956944a1181750dcbba45, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
